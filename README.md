@@ -14,7 +14,7 @@ It includes helpers for all endpoints:
 * PHP 7.0 or higher
 * PHP cURL extension
 
-#Installation
+# Installation
 You can install it using Composer
 
 `composer require koraykupe/thy-api-wrapper-php`
